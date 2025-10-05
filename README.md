@@ -10,7 +10,7 @@
 
 
 ## Skills
-+ **Langusges:** C++, Python, C, sql, JS
++ **Langusges:** C++, Python, C, SQL, JS
 + **Tools:** git, Linux, CMake, Docker 
 + **Frameworks:** Django
 
