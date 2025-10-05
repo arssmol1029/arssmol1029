@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**arssmol1029/arssmol1029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm arssmol1029! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
++ Student of the CMC MSU
++ Connect with Me:
+[![Telegram](https://img.shields.io/badge/Telegram-kepolb-grey?style=flat&logo=telegram)](https://t.me/kepolb)
+[![Email](https://img.shields.io/badge/Email-arssmol1029@gmail.com-grey?style=flat&logo=gmail)](mailto:arssmol1029@gmail.com)
+
+
+## Skills
++ **Langusges:** C++, Python, C, sql, JS
++ **Tools:** git, Linux, CMake, Docker 
++ **Frameworks:** Django
+
+
+## Projects
+
+### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
+**Description:** Web application for creating workouts 
+
+### [Malware Scanner](https://github.com/arssmol1029/malware_scanner)
+**Description:** Utility for scanning files for malicious content using MD5 hashes.
+
+### [LP benchmark](https://github.com/arssmol1029/lp_check)
+**Description:** LP solvers (scip, highs, lp_solve) benchmark 
