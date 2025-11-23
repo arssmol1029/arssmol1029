@@ -17,6 +17,9 @@
 
 ## Projects
 
+### [PR Review Assign](https://github.com/arssmol1029/pr-review)
+**Description:** Service for assigning reviewers to Pull Requests in a team 
+
 ### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
 **Description:** Web application for creating workouts 
 
