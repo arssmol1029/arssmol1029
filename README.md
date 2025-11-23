@@ -10,9 +10,10 @@
 
 
 ## Skills
-+ **Langusges:** C++, Python, C, SQL, JS
++ **Langusges:** C++, go, Python, C, JS
 + **Tools:** git, Linux, CMake, Docker 
 + **Frameworks:** Django
++ **Databases** postgreSQL SQLite
 
 
 ## Projects
