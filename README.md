@@ -18,11 +18,11 @@
 
 ## Projects
 
+### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
+**Description:** Web application for workout management
+
 ### [PR Review](https://github.com/arssmol1029/pr-review)
 **Description:** Service for assigning reviewers to Pull Requests in a team 
-
-### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
-**Description:** Web application for creating workouts 
 
 ### [Malware Scanner](https://github.com/arssmol1029/malware_scanner)
 **Description:** Utility for scanning files for malicious content using MD5 hashes.
