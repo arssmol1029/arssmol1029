@@ -4,7 +4,7 @@
 
 ## About Me
 + Student of the CMC MSU
-+ Connect me:
++ Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-kepolb-0088cc?style=flat&logo=telegram)](https://t.me/kepolb)
 [![Gmail](https://img.shields.io/badge/Gmail-arssmol1029@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:arssmol1029@gmail.com)
 
