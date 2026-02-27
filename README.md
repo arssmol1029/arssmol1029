@@ -18,6 +18,9 @@
 
 ## Projects
 
+### [Tg-Wiki](https://github.com/arssmol1029/tg_wiki)
+**Description:** Tg bot for wikipedia articles scrolling
+
 ### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
 **Description:** Web application for workout management
 
@@ -26,6 +29,3 @@
 
 ### [LP benchmark](https://github.com/arssmol1029/lp_check)
 **Description:** LP solvers (scip, highs, lp_solve) benchmark 
-
-### [Malware Scanner](https://github.com/arssmol1029/malware_scanner)
-**Description:** Utility for scanning files for malicious content using MD5 hashes.
