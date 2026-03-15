@@ -21,11 +21,11 @@
 ### [Tg-Wiki](https://github.com/arssmol1029/tg_wiki)
 **Description:** Tg bot for wikipedia articles scrolling
 
+### [LP benchmark](https://github.com/arssmol1029/lp_benchmark)
+**Description:** Framework for LP solvers benchmarking
+
 ### [Fitness Tracker](https://github.com/arssmol1029/fitness_tracker)
 **Description:** Web application for workout management
 
 ### [PR Review](https://github.com/arssmol1029/pr-review)
 **Description:** Service for assigning reviewers to Pull Requests in a team 
-
-### [LP benchmark](https://github.com/arssmol1029/lp_check)
-**Description:** LP solvers (scip, highs, lp_solve) benchmark 
